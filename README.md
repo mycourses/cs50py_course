@@ -1,9 +1,9 @@
 ## CS50x Python Course 2022
 
-## Problem Set 0
+## Problem Set 0 - Completed
 - [x] Indoor Voice
 - [x] Playback Speed
 - [x] Making Faces
-- [ ] Einstein
-- [ ] Tip Calculator
+- [x] Einstein
+- [x] Tip Calculator
 
