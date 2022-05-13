@@ -7,12 +7,13 @@
 - [x] Einstein
 - [x] Tip Calculator
 
-## Problem Set 1 - _In Progress_
+## Problem Set 1 - _Completed_
 - [x] Deep Thought
 - [x] Home Federal Savings Bank
 - [x] File Extensions
 - [x] Math Interpreter
-- [ ] Meal Time
+- [x] Meal Time
+- [ ] Meal Time - Challenge: 12hr clock
 
 ## Problem Set 2
 - [ ] Camel Case
