@@ -11,7 +11,7 @@
 - [x] Deep Thought
 - [x] Home Federal Savings Bank
 - [x] File Extensions
-- [ ] Math Interpreter
+- [x] Math Interpreter
 - [ ] Meal Time
 
 ## Problem Set 2
