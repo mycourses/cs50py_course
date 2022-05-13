@@ -9,7 +9,7 @@
 
 ## Problem Set 1 - _In Progress_
 - [x] Deep Thought
-- [ ] Home Federal Savings Bank
+- [x] Home Federal Savings Bank
 - [ ] File Extensions
 - [ ] Math Interpreter
 - [ ] Meal Time
