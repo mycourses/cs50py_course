@@ -17,7 +17,7 @@
 
 ## Problem Set 2
 - [x] Camel Case
-- [ ] Coke Machine
+- [x] Coke Machine
 - [ ] Just setting up my twttr
 - [ ] Vanity Plates
 - [ ] Nutrition Facts
