@@ -16,7 +16,7 @@
 - [ ] Meal Time - Challenge: 12hr clock
 
 ## Problem Set 2
-- [ ] Camel Case
+- [x] Camel Case
 - [ ] Coke Machine
 - [ ] Just setting up my twttr
 - [ ] Vanity Plates
