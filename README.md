@@ -15,12 +15,12 @@
 - [x] Meal Time
 - [ ] Meal Time - Challenge: 12hr clock
 
-## Problem Set 2
+## Problem Set 2 - _Completed_
 - [x] Camel Case
 - [x] Coke Machine
 - [x] Just setting up my twttr
 - [x] Vanity Plates
-- [ ] Nutrition Facts
+- [x] Nutrition Facts
 
 ## Problem Set 3
 - [ ] Fuel Gauge
