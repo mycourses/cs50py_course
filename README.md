@@ -19,7 +19,7 @@
 - [x] Camel Case
 - [x] Coke Machine
 - [x] Just setting up my twttr
-- [ ] Vanity Plates
+- [x] Vanity Plates
 - [ ] Nutrition Facts
 
 ## Problem Set 3
