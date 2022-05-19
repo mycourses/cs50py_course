@@ -23,7 +23,7 @@
 - [x] Nutrition Facts
 
 ## Problem Set 3
-- [ ] Fuel Gauge
+- [x] Fuel Gauge
 - [ ] Felipe’s Taqueria
 - [ ] Grocery List
 - [ ] Outdated
