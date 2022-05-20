@@ -25,7 +25,7 @@
 ## Problem Set 3
 - [x] Fuel Gauge
 - [x] Felipe’s Taqueria
-- [ ] Grocery List
+- [x] Grocery List
 - [ ] Outdated
 
 ## Problem Set 4
