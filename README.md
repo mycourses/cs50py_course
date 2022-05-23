@@ -26,7 +26,7 @@
 - [x] Fuel Gauge
 - [x] Felipe’s Taqueria
 - [x] Grocery List
-- [x] Outdated
+- [x] Outdated (refactored)
 
 ## Problem Set 4
 - [ ] Emojize
