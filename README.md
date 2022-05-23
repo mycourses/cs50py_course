@@ -22,11 +22,11 @@
 - [x] Vanity Plates
 - [x] Nutrition Facts
 
-## Problem Set 3
+## Problem Set 3 - _Completed_
 - [x] Fuel Gauge
 - [x] Felipe’s Taqueria
 - [x] Grocery List
-- [ ] Outdated
+- [x] Outdated
 
 ## Problem Set 4
 - [ ] Emojize
