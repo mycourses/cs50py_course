@@ -29,7 +29,7 @@
 - [x] Outdated (refactored)
 
 ## Problem Set 4
-- [ ] Emojize
+- [x] Emojize
 - [ ] Frank, Ian and Glen’s Letters
 - [ ] Adieu, Adieu
 - [ ] Guessing Game
