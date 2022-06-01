@@ -30,7 +30,7 @@
 
 ## Problem Set 4
 - [x] Emojize
-- [ ] Frank, Ian and Glen’s Letters
+- [x] Frank, Ian and Glen’s Letters
 - [ ] Adieu, Adieu
 - [ ] Guessing Game
 - [ ] Little Professor
