@@ -33,7 +33,7 @@
 - [x] Frank, Ian and Glen’s Letters
 - [x] Adieu, Adieu
 - [x] Guessing Game
-- [ ] Little Professor
+- [x] Little Professor
 - [ ] Bitcoin Price Index
 
 ## Problem Set 5
