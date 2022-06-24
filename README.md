@@ -28,7 +28,7 @@
 - [x] Grocery List
 - [x] Outdated (refactored)
 
-## Problem Set 4
+## Problem Set 4 - _Completed_
 - [x] Emojize
 - [x] Frank, Ian and Glen’s Letters
 - [x] Adieu, Adieu
@@ -42,4 +42,23 @@
 - [ ] Re-requesting a Vanity Plate
 - [ ] Refueling
 
+## Problem Set 6
+- [ ] Lines of Code
+- [ ] Pizza Py
+- [ ] Scourgify
+- [ ] CS50 P-Shirt
 
+## Problem Set 7
+- [ ] NUMB3RS
+- [ ] Watch on YouTube
+- [ ] Working 9 to 5
+- [ ] Regular, um, Expressions
+- [ ] Response Validation
+
+## Problem Set 8
+- [ ] Seasons of Love
+- [ ] Cookie Jar
+- [ ] CS50 Shirtificate
+
+## Final Project 9
+- [ ] Project
