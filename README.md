@@ -34,7 +34,7 @@
 - [x] Adieu, Adieu
 - [x] Guessing Game
 - [x] Little Professor
-- [ ] Bitcoin Price Index
+- [x] Bitcoin Price Index
 
 ## Problem Set 5
 - [ ] Testing my twittr
