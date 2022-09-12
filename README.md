@@ -37,7 +37,7 @@
 - [x] Bitcoin Price Index
 
 ## Problem Set 5
-- [ ] Testing my twittr
+- [x] Testing my twttr
 - [ ] Back to the Bank
 - [ ] Re-requesting a Vanity Plate
 - [ ] Refueling
