@@ -38,7 +38,7 @@
 
 ## Problem Set 5
 - [x] Testing my twttr
-- [ ] Back to the Bank
+- [x] Back to the Bank
 - [ ] Re-requesting a Vanity Plate
 - [ ] Refueling
 
