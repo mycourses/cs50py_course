@@ -36,11 +36,11 @@
 - [x] Little Professor
 - [x] Bitcoin Price Index
 
-## Problem Set 5
+## Problem Set 5 - _Completed_
 - [x] Testing my twttr
 - [x] Back to the Bank (refactored)
 - [x] Re-requesting a Vanity Plate
-- [ ] Refueling
+- [x] Refueling
 
 ## Problem Set 6
 - [ ] Lines of Code
